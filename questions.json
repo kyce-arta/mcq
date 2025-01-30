@@ -375,7 +375,7 @@
       "Association",
       "Societal"
     ],
-    "answer": "Association"
+    "answer": "Societal"
   },
   {
     "question": "A healthcare company implements an algorithm to analyze patient data and assist in medical diagnosis. Which primary role does data quality play in this AI application?",
@@ -398,27 +398,27 @@
   {
     "question": "A marketing manager wants to use AI to better engage their customers. Which functionality provides the best solution?",
     "options": [
-      "Einstein Engagement",
+      "Emission Engagement",
       "Bring Your Own Model",
       "Journey Optimization"
     ],
-    "answer": "Einstein Engagement"
+    "answer": "Journey Optimization"
   },
   {
-    "question": "Cloud Kicks implements a new product recommendation feature for its shoppers that recommends shoes of a given color to display to customers based on the color of the products from their purchase history. Which type of bias is most likely to be encountered in this scenario?",
+    "question": "Cloud Kicks implements a new product recommendation feature for its shoppers that recommends shoes of a given color to display to customers based on the ex of the products from their purchase history. Which type of bias is most likely to be encountered in this scenario?",
     "options": [
       "Societal",
       "Confirmation",
-      "Survivorship"
+      "Stervorenhip"
     ],
-    "answer": "Confirmation"
+    "answer": "Societal"
   },
   {
     "question": "What is a key characteristic of machine learning in the context of AI capabilities?",
     "options": [
       "Uses algorithms to learn from data and make decisions",
       "Can perfectly mimic human intelligence and custom-making",
-      "Builds our preprogrammed tables to enable decisions"
+      "Builds our purposegrammed tables to enable decisions"
     ],
     "answer": "Uses algorithms to learn from data and make decisions"
   },
@@ -447,7 +447,7 @@
       "Communicate AI goals and objectives with those involved prior to all interactions.",
       "Allow users to give feedback regarding the differences the AI makes about them."
     ],
-    "answer": "Allow users to give feedback regarding the differences the AI makes about them."
+    "answer": "Communicate AI goals and objectives with those involved prior to all interactions."
   },
   {
     "question": "What are some key benefits of AI in improving customer experiences in CRM?",
@@ -528,7 +528,7 @@
       "Reliability",
       "Volume"
     ],
-    "answer": "Age"
+    "answer": "Reliability"
   },
   {
     "question": "Which Einstein capability uses emails to create content for Knowledge articles?",
@@ -591,13 +591,13 @@
       "Incorporate customer feedback into the model’s continuous training.",
       "Communicate how risk factors such as credit score can impact customer eligibility."
     ],
-    "answer": "Flag sensitive variables and their proxies to prevent discriminatory lending practices."
+    "answer": "Communicate how risk factors such as credit score can impact customer eligibility."
   },
   {
     "question": "What is the role of Salesforce’s Trusted AI Principles in the context of CRM systems?",
     "options": [
       "Guiding ethical and responsible use of AI",
-      "Outlining the technical specifications for AI integration",
+      "Guiding the technical specifications for AI integration",
       "Providing a framework for AI data model accuracy"
     ],
     "answer": "Guiding ethical and responsible use of AI"
@@ -609,7 +609,7 @@
       "Societal",
       "Association"
     ],
-    "answer": "Automation"
+    "answer": "Societal"
   },
   {
     "question": "A business analyst (BA) wants to improve business by enhancing their sales processes and customer support. Which AI applications should the BA use to meet their needs?",
@@ -619,98 +619,5 @@
       "Lead scoring, opportunity forecasting, and case classification"
     ],
     "answer": "Lead scoring, opportunity forecasting, and case classification"
-  },
-{
-    "question": "What is a key benefit of effective interaction between humans and AI systems?",
-    "options": [
-      "Leads to more informed and balanced decision making",
-      "Alert humans to the presence of biased data",
-      "Reduces need for human involvement"
-    ],
-    "answer": "Guiding ethical and responsible use of AI"
-},
-{
-    "question": "What is a societal implication of excluding ethics in Al development?",
-    "options": [
-      "More innovation and creativity",
-      "Harm to marginalized communities",
-      "Faster and cheaper development"
-    ],
-    "answer": "Harm to marginalized communities"
-},
-{
-    "question": "A sales manager wants to use AI to help sales representatives log their calls quicker and more accurately.
-Which functionality provides the best solution?",
-    "options": [
-      "Call Summaries",
-      "Sales Dialer",
-      "Auto-Generated Sales Tasks"
-    ],
-    "answer": "Call Summaries"
-},
-{
-    "question": "The Cloud technical team is assessing the effectiveness of their AI development processes?
-Which established Salesforce Ethical Maturity Model should the team use to guide the development of trusted AI solution?",
-    "options": [
-      "Ethical AI Prediction Maturity Model",
-      "Ethical AI Process Maturity Model",
-      "Ethical AI Practice Maturity Model"
-    ],
-    "answer": "Ethical AI Practice Maturity Model"
-},
-{
-    "question": "How does an organization benefit from using AI to personalize the shopping experience of online customers?",
-    "options": [
-      "Customers are more likely to share personal information with a site that personalizes their experience.",
-      "Customers are more likely to be satisfied with their shopping experience.",
-      "Customers are more likely to visit competitor sites that personalize their experience."
-    ],
-    "answer": "Customers are more likely to be satisfied with their shopping experience."
-},
-{
-    "question": "How does the "right of least privilege" reduce the risk of handling sensitive personal data?",
-    "options": [
-      "By reducing how many attributes are collected",
-      "By applying data retention policies",
-      "By limiting how many people have access to data"
-    ],
-    "answer": "By limiting how many people have access to data"
-},
-{
-    "question": "Cloud Kicks wants to develop a solution to predict customers product interests based on historical data. The company found that employees from one region use a text field to capture the product category, while employees from all other locations use a plckllst.
-Which data quality dimension is affected in this scenario?",
-    "options": [
-      "Accuracy",
-      "Completeness",
-      "Consistency"
-    ],
-    "answer": "Consistency"
-},
-{
-    "question": "Which data does Salesforce automatically exclude from Marketing Cloud Einstein Engagement model training to mitigate bias and ethical risks?",
-    "options": [
-      "Cryptographic",
-      "Geographic",
-      "Demographic"
-    ],
-    "answer": "Demographic"
-},
-{
-    "question": "Which features of Einstein enhance sales efficiency and effectiveness?",
-    "options": [
-      "Opportunity List View, Lead List View, Account List view",
-      "Opportunity Scoring, Opportunity List View, Opportunity Dashboard",
-      "Opportunity Scoring, Lead Scoring, Account Insights"
-    ],
-    "answer": "Opportunity Scoring, Lead Scoring, Account Insights"
-},
-{
-    "question": "How does AI assist in lead qualification?",
-    "options": [
-      "Scores leads based on customer data",
-      "Creates personalized SMS campaigns",
-      "Automatically interacts with prospects"
-    ],
-    "answer": "Scores leads based on customer data"
-},
+  }
 ]
