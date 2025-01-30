@@ -1,0 +1,717 @@
+[
+  {
+    "question": "Cloud Kicks wants to evaluate the quality of its sales data. Which first step should they take for the data quality assessment?",
+    "options": [
+      "Plan and align territories.",
+      "Run a new report or dashboard.",
+      "Identify business objectives."
+    ],
+    "answer": "Identify business objectives."
+  },
+  {
+    "question": "Cloud Kicks wants to use AI to enhance its sales processes and customer support. Which capability should they use?",
+    "options": [
+      "Sales Path and Automated Case Escalations",
+      "Einstein Lead Scoring and Case Classification",
+      "Dashboard of Current Leads and Cases"
+    ],
+    "answer": "Einstein Lead Scoring and Case Classification"
+  },
+  {
+    "question": "A sales manager is looking to enhance the quality of lead data in their CRM system. Which process will most likely help the team accomplish this goal?",
+    "options": [
+      "Prioritize active leads quarterly.",
+      "Redesign the lead conversion process.",
+      "Review and update missing lead information"
+    ],
+    "answer": "Review and update missing lead information"
+  },
+  {
+    "question": "What are predictive analytics, machine learning, natural language processing (NLP), and computer vision?",
+    "options": [
+      "Different types of data models used in Salesforce",
+      "Different types of automation tools used in Salesforce",
+      "Different types of AI sets that can be applied in Salesforce"
+    ],
+    "answer": "Different types of AI sets that can be applied in Salesforce"
+  },
+  {
+    "question": "What are the potential consequences of an organization suffering from poor data quality?",
+    "options": [
+      "Low employee morale, stock distribution, and inability to attract top talent",
+      "Revenue loss, poor customer service, and reputational damage",
+      "Technical debt, monolithic system architecture, and slow ETL throughput"
+    ],
+    "answer": "Revenue loss, poor customer service, and reputational damage"
+  },
+  {
+    "question": "What is one technique to mitigate bias and ensure fairness in AI applications?",
+    "options": [
+      "Using data that contains more examples of minority groups than majority groups",
+      "Excluding data features from the AI application to benefit a population",
+      "Ongoing auditing and monitoring of data that in used in AI applications"
+    ],
+    "answer": "Ongoing auditing and monitoring of data that in used in AI applications"
+  },
+  {
+    "question": "Cloud Kicks wants to decrease the workload for its customer care agents by implementing a chatbot on its website that partially deflects incoming cases by answering frequently asked questions. Which field of AI is most suitable for this scenario?",
+    "options": [
+      "Computer vision",
+      "Natural Language processing",
+      "Predictive analytics"
+    ],
+    "answer": "Natural Language processing"
+  },
+  {
+    "question": "What should organizations do to ensure data quality for their AI initiatives?",
+    "options": [
+      "Develop AI algorithms to automatically handle data quality issues",
+      "Prioritize model fine-tuning over data quality improvements",
+      "Collect and create high-quality data from reliable sources"
+    ],
+    "answer": "Collect and create high-quality data from reliable sources"
+  },
+  {
+    "question": "What is a benefit of a diverse, balanced, and large dataset?",
+    "options": [
+      "Model complexity",
+      "Model trainability",
+      "Model accuracy"
+    ],
+    "answer": "Model accuracy"
+  },
+  {
+    "question": "A developer has a large amount of data, but it is scattered across different systems and is not standardized. Which key data quality element should they focus on to ensure the effectiveness of the AI models?",
+    "options": [
+      "Performance",
+      "Consistency",
+      "Volume"
+    ],
+    "answer": "Consistency"
+  },
+  {
+    "question": "A sales manager wants to improve their processes using AI in Salesforce. Which application of AI would be most beneficial?",
+    "options": [
+      "Data modeling and management",
+      "Sales dashboard and reporting",
+      "Lead scoring and opportunity forecasting"
+    ],
+    "answer": "Lead scoring and opportunity forecasting"
+  },
+  {
+    "question": "What is a benefit of data quality and transparency as it pertains to bias in generative AI?",
+    "options": [
+      "Chances of bias are aggravated.",
+      "Chances of bias are removed.",
+      "Chances of bias are mitigated."
+    ],
+    "answer": "Chances of bias are mitigated."
+  },
+  {
+    "question": "What does the term “data completeness” refer to in the context of data quality?",
+    "options": [
+      "The degree to which all required data points are present in the dataset",
+      "The ability to access data from multiple sources in real time",
+      "The process of aggregating multiple datasets from various databases"
+    ],
+    "answer": "The degree to which all required data points are present in the dataset"
+  },
+  {
+    "question": "Cloud Kicks discovered multiple variations of state and country values in contact records. Which data quality dimension is affected by this issue?",
+    "options": [
+      "Accuracy",
+      "Consistency",
+      "Usage"
+    ],
+    "answer": "Consistency"
+  },
+  {
+    "question": "Which best describes the difference between predictive AI and generative AI?",
+    "options": [
+      "Predictive AI uses machine learning to classify or predict outputs from its input data whereas generative AI does not use machine learning to generate its output.",
+      "Predictive AI uses machine learning to classify or predict outputs from its input data whereas generative AI uses machine learning to generate new and original output for a given input.",
+      "Predictive AI and generative AI have the same capabilities but differ in the type of input they receive; predictive AI receives raw data whereas generative AI receives natural language."
+    ],
+    "answer": "Predictive AI uses machine learning to classify or predict outputs from its input data whereas generative AI uses machine learning to generate new and original output for a given input."
+  },
+  {
+    "question": "A business analyst (BA) is preparing a new use case for AI. They run a report to check for null values in the attributes they plan to use. Which data quality component is the BA verifying by checking for null values?",
+    "options": [
+      "Duplication",
+      "Usage",
+      "Completeness"
+    ],
+    "answer": "Completeness"
+  },
+  {
+    "question": "What is a sensitive variable that can lead to bias?",
+    "options": [
+      "Country",
+      "Education level",
+      "Gender"
+    ],
+    "answer": "Gender"
+  },
+  {
+    "question": "Which statement exemplifies Salesforce’s honesty guideline when training AI models?",
+    "options": [
+      "Choose smaller better-trained models instead of a larger more sparsely trained models.",
+      "Ensure appropriate context and transparency while using AI-generated responses.",
+      "Minimize the AI model’s custom footprint and environmental impact during training."
+    ],
+    "answer": "Ensure appropriate context and transparency while using AI-generated responses."
+  },
+  {
+    "question": "Cloud Kicks wants to use Einstein Prediction Builder to determine a customer’s likelihood of buying specific products; however, data quality is a concern. How can data quality be assessed quickly?",
+    "options": [
+      "Leverage data quality app from AppExchange.",
+      "Build a Data Management Strategy.",
+      "Run reports to explore the data quality."
+    ],
+    "answer": "Leverage data quality app from AppExchange."
+  },
+  {
+    "question": "A Salesforce administrator creates a new field to capture an order's destination country. Which field type should they use to ensure data quality?",
+    "options": [
+      "Picklist",
+      "Address",
+      "Text"
+    ],
+    "answer": "Picklist"
+  },
+  {
+    "question": "What is a potential outcome of using poor-quality data in AI applications?",
+    "options": [
+      "AI models may produce biased or erroneous results.",
+      "AI models are less accurate but easier to train.",
+      "AI model training becomes slower and less efficient."
+    ],
+    "answer": "AI models may produce biased or erroneous results."
+  },
+  {
+    "question": "Cloud Kicks plans to use automated chat as its primary support channel. Which Einstein feature should they use?",
+    "options": [
+      "Discovery",
+      "Next Best Action",
+      "Bots"
+    ],
+    "answer": "Bots"
+  },
+  {
+    "question": "Cloud Kids’ latest email campaign is struggling to attract new customers. How can AI increase the company’s customer email engagement?",
+    "options": [
+      "Resend email to inactive recipients",
+      "Remove invalid email addresses",
+      "Create personalized emails"
+    ],
+    "answer": "Create personalized emails"
+  },
+  {
+    "question": "How is natural language processing (NLP) used in the context of AI capabilities?",
+    "options": [
+      "To interpret and understand programming language",
+      "To understand and generate human language",
+      "To cleanse and prepare data for AI implementation"
+    ],
+    "answer": "To understand and generate human language"
+  },
+  {
+    "question": "How does a data quality assessment impact business outcomes for companies using AI?",
+    "options": [
+      "Provides a benchmark for AI predictions",
+      "Improves the speed of AI recommendations",
+      "Accelerates the delivery of new AI solutions"
+    ],
+    "answer": "Provides a benchmark for AI predictions"
+  },
+  {
+    "question": "Salesforce defines bias as using a person's immutable traits to classify them or market to them. Which potentially sensitive attribute is an example of an immutable trait?",
+    "options": [
+      "Email address",
+      "Nickname",
+      "Financial status"
+    ],
+    "answer": "Financial status"
+  },
+  {
+    "question": "What are some of the ethical challenges associated with AI development?",
+    "options": [
+      "Potential for human bias in multiple learning algorithms and the lack of transparency in AI decision-making processes",
+      "Inherent neutrality of AI systems, which eliminates any potential for human bias in decision-making",
+      "Implicit transparency of AI systems, which makes it easy for users to understand and trust their decisions"
+    ],
+    "answer": "Potential for human bias in multiple learning algorithms and the lack of transparency in AI decision-making processes"
+  },
+  {
+    "question": "Which type of AI can enhance customer service agents' email responses by analyzing the written content of previous emails?",
+    "options": [
+      "Deep learning",
+      "Natural language processing",
+      "Machine learning"
+    ],
+    "answer": "Natural language processing"
+  },
+  {
+    "question": "What is an example of Salesforce's Trusted AI Principle of Inclusivity in practice?",
+    "options": [
+      "Testing models with diverse datasets",
+      "Working with human rights experts",
+      "Striving for model responsibility"
+    ],
+    "answer": "Testing models with diverse datasets"
+  },
+  {
+    "question": "Cloud Kicks wants to evaluate its data quality to ensure accurate and up-to-date records. Which type of records negatively impact data quality?",
+    "options": [
+      "Duplicates",
+      "Structured",
+      "Complete"
+    ],
+    "answer": "Duplicates"
+  },
+  {
+    "question": "A consultant conducts a series of Consequence Scanning Workshops to support testing diverse datasets. Which Salesforce Trusted AI Principle is being practiced?",
+    "options": [
+      "Transparency",
+      "Accountability",
+      "Inclusivity"
+    ],
+    "answer": "Inclusivity"
+  },
+  {
+    "question": "In the context of Salesforce’s Trusted AI Principles, what does the principle of Responsibility primarily focus on?",
+    "options": [
+      "Providing a framework for data model accuracy",
+      "Ensuring ethical use of AI",
+      "Ordering the technical specifications for AI integration"
+    ],
+    "answer": "Ensuring ethical use of AI"
+  },
+  {
+    "question": "What is an implication of user consent in regard to AI data privacy?",
+    "options": [
+      "AI ensures complete data privacy by automatically obtaining user consent.",
+      "AI operates independently of user privacy and consent.",
+      "AI infringes on privacy where user consent is not obtained."
+    ],
+    "answer": "AI infringes on privacy where user consent is not obtained."
+  },
+  {
+    "question": "What is the best method to safeguard customer data privacy?",
+    "options": [
+      "Track customer data consent preferences.",
+      "Protect customer data with encrypted access.",
+      "Archive customer data on a recurring schedule."
+    ],
+    "answer": "Protect customer data with encrypted access."
+  },
+  {
+    "question": "What is the significance of explainability of trusted AI systems?",
+    "options": [
+      "Enhances the security and accuracy of AI models",
+      "Increases the complexity of AI models",
+      "Describes how AI models make decisions"
+    ],
+    "answer": "Describes how AI models make decisions"
+  },
+  {
+    "question": "Cloud Kicks wants to optimize its business operations by incorporating AI into its CRM. What should the company do first to prepare its data for use with AI?",
+    "options": [
+      "Determine data biases.",
+      "Determine data outcomes.",
+      "Determine data availability."
+    ],
+    "answer": "Determine data availability."
+  },
+  {
+    "question": "What is a key challenge of human-AI collaboration in decision-making?",
+    "options": [
+      "Leads to more informed and balanced decision-making",
+      "Reduces the need for human involvement in decision-making processes",
+      "Creates a reliance on AI, potentially leading to reduced critical thinking and oversight"
+    ],
+    "answer": "Creates a reliance on AI, potentially leading to reduced critical thinking and oversight"
+  },
+  {
+    "question": "What are the three commonly used examples of AI in CRM?",
+    "options": [
+      "Ensures bias, face recognition, recommendations",
+      "Predictive scoring, reporting, Ensures bias",
+      "Predictive scoring, forecasting, recommendations"
+    ],
+    "answer": "Predictive scoring, forecasting, recommendations"
+  },
+  {
+    "question": "In the context of Salesforce's Trusted AI Principles, what does the principle of Empowerment primarily aim to achieve?",
+    "options": [
+      "Empower users to solve challenging technical problems using neural networks.",
+      "Empower users of all skill levels to build AI applications with clicks, not code.",
+      "Empower users to contribute to the growing body of knowledge of leading AI research."
+    ],
+    "answer": "Empower users of all skill levels to build AI applications with clicks, not code."
+  },
+  {
+    "question": "What is the main focus of the Accountability principle in Salesforce's Trusted AI Principles?",
+    "options": [
+      "Ensuring transparency in AI-driven recommendations and predictions",
+      "Taking responsibility for one's actions toward customers, partners, and society",
+      "Ensuring transparency in AI-driven recommendations and predictions"
+    ],
+    "answer": "Taking responsibility for one's actions toward customers, partners, and society"
+  },
+  {
+    "question": "What is a potential source of bias in training data for AI models?",
+    "options": [
+      "The data is collected in real time from source systems.",
+      "The data is collected from a diverse range of sources and demographics.",
+      "The data is skewed toward a particular demographic or source."
+    ],
+    "answer": "The data is skewed toward a particular demographic or source."
+  },
+  {
+    "question": "Which type of bias results from data being labeled according to stereotypes?",
+    "options": [
+      "Interaction",
+      "Association",
+      "Societal"
+    ],
+    "answer": "Association"
+  },
+  {
+    "question": "A healthcare company implements an algorithm to analyze patient data and assist in medical diagnosis. Which primary role does data quality play in this AI application?",
+    "options": [
+      "Related need for healthcare expertise in interpreting AI output",
+      "Protocol compatibility of AI algorithms with the system’s infrastructure",
+      "Enhanced accuracy and reliability of medical predictions and diagnoses"
+    ],
+    "answer": "Enhanced accuracy and reliability of medical predictions and diagnoses"
+  },
+  {
+    "question": "Cloud Kicks wants to create a custom service analytics application to analyze cases in Salesforce. The application should rely on accurate data to ensure efficient resolution. Which data quality dimension is essential for this custom application?",
+    "options": [
+      "Consistency",
+      "Exploitation",
+      "Age"
+    ],
+    "answer": "Consistency"
+  },
+  {
+    "question": "A marketing manager wants to use AI to better engage their customers. Which functionality provides the best solution?",
+    "options": [
+      "Einstein Engagement",
+      "Bring Your Own Model",
+      "Journey Optimization"
+    ],
+    "answer": "Einstein Engagement"
+  },
+  {
+    "question": "Cloud Kicks implements a new product recommendation feature for its shoppers that recommends shoes of a given color to display to customers based on the color of the products from their purchase history. Which type of bias is most likely to be encountered in this scenario?",
+    "options": [
+      "Societal",
+      "Confirmation",
+      "Survivorship"
+    ],
+    "answer": "Confirmation"
+  },
+  {
+    "question": "What is a key characteristic of machine learning in the context of AI capabilities?",
+    "options": [
+      "Uses algorithms to learn from data and make decisions",
+      "Can perfectly mimic human intelligence and custom-making",
+      "Builds our preprogrammed tables to enable decisions"
+    ],
+    "answer": "Uses algorithms to learn from data and make decisions"
+  },
+  {
+    "question": "Cloud Kicks wants to implement AI features on its Salesforce Platform but has concerns about potential ethical and privacy challenges. What should they consider doing to minimize potential AI bias?",
+    "options": [
+      "Integrate AI models that auto-servers biased data.",
+      "Use demographic data to identify minority groups.",
+      "Implement Salesforce’s Trusted AI Principles."
+    ],
+    "answer": "Implement Salesforce’s Trusted AI Principles."
+  },
+  {
+    "question": "A developer is tasked with selecting a suitable dataset for training an AI model in Salesforce to accurately predict current customer behavior. What is a crucial factor that the developer should consider during selection?",
+    "options": [
+      "Number of variables in the dataset",
+      "Size of the dataset",
+      "Age of the dataset"
+    ],
+    "answer": "Size of the dataset"
+  },
+  {
+    "question": "What is one way to achieve transparency in AI?",
+    "options": [
+      "Establish an ethical and unbiased culture amongst these involved.",
+      "Communicate AI goals and objectives with those involved prior to all interactions.",
+      "Allow users to give feedback regarding the differences the AI makes about them."
+    ],
+    "answer": "Allow users to give feedback regarding the differences the AI makes about them."
+  },
+  {
+    "question": "What are some key benefits of AI in improving customer experiences in CRM?",
+    "options": [
+      "Improve CRM security protocols, safeguarding sensitive customer data from potential breaches and threats",
+      "Only automates the customer service experience, ensuring seamless automated interactions with customers",
+      "Streamlines case management by categorizing and tracking customer support cases, identifying topics, and summarizing case resolutions"
+    ],
+    "answer": "Streamlines case management by categorizing and tracking customer support cases, identifying topics, and summarizing case resolutions"
+  },
+  {
+    "question": "What is the key difference between generative and predictive AI?",
+    "options": [
+      "Generative AI creates new content based on existing data and predictive AI analyses existing data.",
+      "Generative AI finds content similar to existing data and predictive AI analyses existing data.",
+      "Generative AI analyses existing data and predictive AI creates new content based on existing data."
+    ],
+    "answer": "Generative AI creates new content based on existing data and predictive AI analyses existing data."
+  },
+  {
+    "question": "What can bias in AI algorithms in CRM lead to?",
+    "options": [
+      "Personalization and targeted marketing changes",
+      "Advertising cost increases",
+      "Ethical challenges in CRM systems"
+    ],
+    "answer": "Ethical challenges in CRM systems"
+  },
+  {
+    "question": "What is the most likely impact that high-quality data will have on customer relationships?",
+    "options": [
+      "Higher customer acquisition costs",
+      "Increased brand loyalty",
+      "Improved customer trust and satisfaction"
+    ],
+    "answer": "Improved customer trust and satisfaction"
+  },
+  {
+    "question": "Why is it critical to consider privacy concerns when dealing with AI and CRM data?",
+    "options": [
+      "Confirms the data is accessible to all users",
+      "Ensures compliance with laws and regulations",
+      "Increases the volume of data collected"
+    ],
+    "answer": "Ensures compliance with laws and regulations"
+  },
+  {
+    "question": "What role does data quality play in the ethical use of AI applications?",
+    "options": [
+      "High-quality data is essential for ensuring unbiased and fair AI decisions, promoting ethical use, and preventing discrimination.",
+      "High-quality data ensures the presence of demographic attributes required for personalised campaigns.",
+      "Low-quality data reduces the risk of unintended bias as the data is not overfitted to demographic groups."
+    ],
+    "answer": "High-quality data is essential for ensuring unbiased and fair AI decisions, promoting ethical use, and preventing discrimination."
+  },
+  {
+    "question": "What is the role of data quality in achieving AI business objectives?",
+    "options": [
+      "Data quality is unnecessary because AI can work with all data types.",
+      "Data quality is important for maintaining AI data storage limits.",
+      "Data quality is required to create accurate AI data insights."
+    ],
+    "answer": "Data quality is required to create accurate AI data insights."
+  },
+  {
+    "question": "A system admin recognizes the need to put a data management strategy in place. What is a key component of a data management strategy?",
+    "options": [
+      "Naming Convention",
+      "Data Backup",
+      "Color Coding"
+    ],
+    "answer": "Data Backup"
+  },
+  {
+    "question": "Cloud Kicks wants to use an AI model to predict the demand for shoes using historical data on sales and regional characteristics. What is an essential data quality dimension to achieve this goal?",
+    "options": [
+      "Age",
+      "Reliability",
+      "Volume"
+    ],
+    "answer": "Age"
+  },
+  {
+    "question": "Which Einstein capability uses emails to create content for Knowledge articles?",
+    "options": [
+      "Discover",
+      "Generate",
+      "Predict"
+    ],
+    "answer": "Generate"
+  },
+  {
+    "question": "What is a key challenge of human-AI collaboration in decision-making?",
+    "options": [
+      "Reduces the need for human involvement in decision-making processes",
+      "Leads to more informed and balanced decision-making",
+      "Creates a reliance on AI, potentially leading to less critical thinking and oversight"
+    ],
+    "answer": "Creates a reliance on AI, potentially leading to less critical thinking and oversight"
+  },
+  {
+    "question": "Cloud Kicks uses Einstein to generate predictions but is not seeing accurate results. What is a potential reason for this?",
+    "options": [
+      "The wrong product",
+      "Poor data quality",
+      "Too much data"
+    ],
+    "answer": "Poor data quality"
+  },
+  {
+    "question": "What is machine learning?",
+    "options": [
+      "AI that can grow its intelligence",
+      "AI that creates new content",
+      "A data model used in Salesforce"
+    ],
+    "answer": "AI that can grow its intelligence"
+  },
+  {
+    "question": "What are the key components of the data quality standard?",
+    "options": [
+      "Naming, Formatting, Nonsoring",
+      "Reviewing, Updating, Archiving",
+      "Accuracy, Completeness, Consistency"
+    ],
+    "answer": "Accuracy, Completeness, Consistency"
+  },
+  {
+    "question": "Cloud Kicks learns of complaints from customers who are receiving too many sales calls and emails. Which data quality dimension should be assessed to reduce these communication inefficiencies?",
+    "options": [
+      "Usage",
+      "Duplication",
+      "Consent"
+    ],
+    "answer": "Duplication"
+  },
+  {
+    "question": "A financial institution plans a campaign for preapproved credit cards. How should they implement Salesforce’s Trusted AI Principle of Transparency?",
+    "options": [
+      "Flag sensitive variables and their proxies to prevent discriminatory lending practices.",
+      "Incorporate customer feedback into the model’s continuous training.",
+      "Communicate how risk factors such as credit score can impact customer eligibility."
+    ],
+    "answer": "Flag sensitive variables and their proxies to prevent discriminatory lending practices."
+  },
+  {
+    "question": "What is the role of Salesforce’s Trusted AI Principles in the context of CRM systems?",
+    "options": [
+      "Guiding ethical and responsible use of AI",
+      "Outlining the technical specifications for AI integration",
+      "Providing a framework for AI data model accuracy"
+    ],
+    "answer": "Guiding ethical and responsible use of AI"
+  },
+  {
+    "question": "Which type of bias imposes a system’s values on others?",
+    "options": [
+      "Automation",
+      "Societal",
+      "Association"
+    ],
+    "answer": "Automation"
+  },
+  {
+    "question": "A business analyst (BA) wants to improve business by enhancing their sales processes and customer support. Which AI applications should the BA use to meet their needs?",
+    "options": [
+      "Machine learning models and chatbot predictions",
+      "Sales data cleansing and customer support data governance",
+      "Lead scoring, opportunity forecasting, and case classification"
+    ],
+    "answer": "Lead scoring, opportunity forecasting, and case classification"
+  },
+{
+    "question": "What is a key benefit of effective interaction between humans and AI systems?",
+    "options": [
+      "Leads to more informed and balanced decision making",
+      "Alert humans to the presence of biased data",
+      "Reduces need for human involvement"
+    ],
+    "answer": "Guiding ethical and responsible use of AI"
+},
+//new 30-Jan-2025
+{
+    "question": "What is a societal implication of excluding ethics in Al development?",
+    "options": [
+      "More innovation and creativity",
+      "Harm to marginalized communities",
+      "Faster and cheaper development"
+    ],
+    "answer": "Harm to marginalized communities"
+},
+{
+    "question": "A sales manager wants to use AI to help sales representatives log their calls quicker and more accurately.
+Which functionality provides the best solution?",
+    "options": [
+      "Call Summaries",
+      "Sales Dialer",
+      "Auto-Generated Sales Tasks"
+    ],
+    "answer": "Call Summaries"
+},
+{
+    "question": "The Cloud technical team is assessing the effectiveness of their AI development processes?
+Which established Salesforce Ethical Maturity Model should the team use to guide the development of trusted AI solution?",
+    "options": [
+      "Ethical AI Prediction Maturity Model",
+      "Ethical AI Process Maturity Model",
+      "Ethical AI Practice Maturity Model"
+    ],
+    "answer": "Ethical AI Practice Maturity Model"
+},
+{
+    "question": "How does an organization benefit from using AI to personalize the shopping experience of online customers?",
+    "options": [
+      "Customers are more likely to share personal information with a site that personalizes their experience.",
+      "Customers are more likely to be satisfied with their shopping experience.",
+      "Customers are more likely to visit competitor sites that personalize their experience."
+    ],
+    "answer": "Customers are more likely to be satisfied with their shopping experience."
+},
+{
+    "question": "How does the "right of least privilege" reduce the risk of handling sensitive personal data?",
+    "options": [
+      "By reducing how many attributes are collected",
+      "By applying data retention policies",
+      "By limiting how many people have access to data"
+    ],
+    "answer": "By limiting how many people have access to data"
+},
+{
+    "question": "Cloud Kicks wants to develop a solution to predict customers product interests based on historical data. The company found that employees from one region use a text field to capture the product category, while employees from all other locations use a plckllst.
+Which data quality dimension is affected in this scenario?",
+    "options": [
+      "Accuracy",
+      "Completeness",
+      "Consistency"
+    ],
+    "answer": "Consistency"
+},
+{
+    "question": "Which data does Salesforce automatically exclude from Marketing Cloud Einstein Engagement model training to mitigate bias and ethical risks?",
+    "options": [
+      "Cryptographic",
+      "Geographic",
+      "Demographic"
+    ],
+    "answer": "Demographic"
+},
+{
+    "question": "Which features of Einstein enhance sales efficiency and effectiveness?",
+    "options": [
+      "Opportunity List View, Lead List View, Account List view",
+      "Opportunity Scoring, Opportunity List View, Opportunity Dashboard",
+      "Opportunity Scoring, Lead Scoring, Account Insights"
+    ],
+    "answer": "Opportunity Scoring, Lead Scoring, Account Insights"
+},
+{
+    "question": "How does AI assist in lead qualification?",
+    "options": [
+      "Scores leads based on customer data",
+      "Creates personalized SMS campaigns",
+      "Automatically interacts with prospects"
+    ],
+    "answer": "Scores leads based on customer data"
+},
+]
