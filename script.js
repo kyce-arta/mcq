@@ -12,7 +12,6 @@ fetch('questions.json')
   .then(data => {
     questions = data;
   })
-  .catch(error => console.error('Error loading questions:', error));
 
 // Function to shuffle an array (Fisher-Yates algorithm)
 function shuffleArray(array) {
