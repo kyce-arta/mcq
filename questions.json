@@ -620,7 +620,7 @@
     ],
     "answer": "Lead scoring, opportunity forecasting, and case classification"
   },
-{
+  {
     "question": "What is a key benefit of effective interaction between humans and AI systems?",
     "options": [
       "Leads to more informed and balanced decision making",
@@ -628,8 +628,8 @@
       "Reduces need for human involvement"
     ],
     "answer": "Leads to more informed and balanced decision making"
-},
-{
+  },
+  {
     "question": "What is a societal implication of excluding ethics in Al development?",
     "options": [
       "More innovation and creativity",
@@ -637,8 +637,8 @@
       "Faster and cheaper development"
     ],
     "answer": "Harm to marginalized communities"
-},
-{
+  },
+  {
     "question": "A sales manager wants to use AI to help sales representatives log their calls quicker and more accurately. Which functionality provides the best solution?",
     "options": [
       "Call Summaries",
@@ -646,8 +646,8 @@
       "Auto-Generated Sales Tasks"
     ],
     "answer": "Call Summaries"
-},
-{
+  },
+  {
     "question": "The Cloud technical team is assessing the effectiveness of their AI development processes? Which established Salesforce Ethical Maturity Model should the team use to guide the development of trusted AI solution?",
     "options": [
       "Ethical AI Prediction Maturity Model",
@@ -655,8 +655,8 @@
       "Ethical AI Practice Maturity Model"
     ],
     "answer": "Ethical AI Practice Maturity Model"
-},
-{
+  },
+  {
     "question": "How does an organization benefit from using AI to personalize the shopping experience of online customers?",
     "options": [
       "Customers are more likely to share personal information with a site that personalizes their experience.",
@@ -664,17 +664,17 @@
       "Customers are more likely to visit competitor sites that personalize their experience."
     ],
     "answer": "Customers are more likely to be satisfied with their shopping experience."
-},
-{
-    "question": "How does the "right of least privilege" reduce the risk of handling sensitive personal data?",
+  },
+  {
+    "question": "How does the \"right of least privilege\" reduce the risk of handling sensitive personal data?",
     "options": [
       "By reducing how many attributes are collected",
       "By applying data retention policies",
       "By limiting how many people have access to data"
     ],
     "answer": "By limiting how many people have access to data"
-},
-{
+  },
+  {
     "question": "Cloud Kicks wants to develop a solution to predict customers product interests based on historical data. The company found that employees from one region use a text field to capture the product category, while employees from all other locations use a plckllst. Which data quality dimension is affected in this scenario?",
     "options": [
       "Accuracy",
@@ -682,8 +682,8 @@
       "Consistency"
     ],
     "answer": "Consistency"
-},
-{
+  },
+  {
     "question": "Which data does Salesforce automatically exclude from Marketing Cloud Einstein Engagement model training to mitigate bias and ethical risks?",
     "options": [
       "Cryptographic",
@@ -691,8 +691,8 @@
       "Demographic"
     ],
     "answer": "Demographic"
-},
-{
+  },
+  {
     "question": "Which features of Einstein enhance sales efficiency and effectiveness?",
     "options": [
       "Opportunity List View, Lead List View, Account List view",
@@ -700,8 +700,8 @@
       "Opportunity Scoring, Lead Scoring, Account Insights"
     ],
     "answer": "Opportunity Scoring, Lead Scoring, Account Insights"
-},
-{
+  },
+  {
     "question": "How does AI assist in lead qualification?",
     "options": [
       "Scores leads based on customer data",
@@ -709,7 +709,7 @@
       "Automatically interacts with prospects"
     ],
     "answer": "Scores leads based on customer data"
-},
+  },
   {
     "question": "How does poor data quality affect predictive and generative AI models?",
     "options": [
@@ -764,9 +764,9 @@
     ],
     "answer": "Consistency"
   },
-   {
+  {
     "question": "What is a key consideration regarding data quality's role in AI implementations?",
-     "options": [
+    "options": [
       "Customizing AI features in Salesforce",
       "Training and fine-tuning Salesforce AI models",
       "Integrating AI models with Salesforce workflows"
@@ -826,5 +826,5 @@
       "Develop right-sized models to reduce our carbon footprint."
     ],
     "answer": "Create guardrails that mitigate toxicity and protect PII."
-  },
+  }
 ]
